@@ -1,0 +1,20 @@
+{
+  "name": "find_phone_charge_level",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bluebird": "^3.4.7",
+    "console-stamp": "^0.2.5",
+    "gm": "^1.23.0",
+    "node-tesseract": "^0.2.7",
+    "request-promise": "^4.1.1",
+    "snoowrap": "^1.6.0"
+  }
+}
